@@ -1,5 +1,5 @@
 web:
-  image: arvestal/app
+  image: arvestal/my_app
   autorestart: always
   ports:
     - "80:9000"
