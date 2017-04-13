@@ -5,13 +5,15 @@ angular.module('app')
       {label: 'one'},
       {label: 'two'},
       {label: 'three'},
-      {label: 'four'}
+      {label: 'four'},
+      {label: 'cinco'}
     ];
 
     $scope.list2 = [
       {label: 'uno'},
       {label: 'dos'},
       {label: 'tres'},
-      {label: 'quatro'}
+      {label: 'quatro'},
+      {label: 'five'}
     ];
   }]);
